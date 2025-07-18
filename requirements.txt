@@ -6,8 +6,9 @@ transformers
 sentence-transformers
 nltk
 spacy
-spacy download en_core_web_sm
 matplotlib
 seaborn
+openpyxl
 streamlit
 textblob
+google-generativeai
